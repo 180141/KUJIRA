@@ -4,7 +4,7 @@
 body {
 	margin: 0 0 0 0;
 	padding: 0 0 0 0;
-	background-color: #f5f3eb;
+	background-color: #DEB887;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
@@ -29,10 +29,10 @@ p {
 	line-height: 160%;
 }
 a:link {
-	color:#6aa4d6;
+	color:#8B4513;
 }
 a:visited {
-	color:#6aa4d6;
+	color:#8B4513;
 }
 a:hover {
 	color: #4f7697;
@@ -59,7 +59,7 @@ img {
 #nav {
 	margin: 0 0 0 0;
 	padding: 15px 30px 10px 30px;
-	background-image: url(../images/menu-bg.png);
+	background-image: url(../images/irokae-bg.jpg);
 }
 #nav li a:link {
 	color: #f5f3eb;
